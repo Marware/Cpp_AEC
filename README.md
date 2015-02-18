@@ -4,7 +4,7 @@ Acoustic Echo Cancellation Speex wrapper
 Based on http://www.dspcottage.com/en/algorithms/AEC
 
 Features:
-- Portable (tested on Ubuntu 14.04 and Windows 7)
+- Works in Windows no need for sound drivers support
 - Very lightweight
 - Using widely known speex library
 
